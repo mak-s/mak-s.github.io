@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This page tells you a little bit about me.
+Experienced Software Engineer specializing in building mobile and desktop applications for the Apple ecosystem.
